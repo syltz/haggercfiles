@@ -34,4 +34,4 @@ alias install="sudo apt-get install"
 alias cd..="cd .."
 alias ls="ls --color=auto"
 alias connPi="ssh markland.itkraft.se -l pi -p 50"
-#Test test
+alias svim="sudo -E vim"
