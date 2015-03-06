@@ -1,3 +1,4 @@
+set background=dark
 set smartindent
 set tabstop=4
 set pastetoggle=<F2>
