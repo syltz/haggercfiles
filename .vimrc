@@ -1,9 +1,9 @@
 set background=dark
 set smartindent
 set tabstop=4
-set pastetoggle=<F2>
 set shiftwidth=4
+set expandtab
+set pastetoggle=<F2>
 syntax on
 set encoding=utf-8
 set fileencoding=utf-8
-
