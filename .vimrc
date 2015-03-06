@@ -1,4 +1,3 @@
-colorscheme murphy
 set smartindent
 set tabstop=4
 set pastetoggle=<F2>
