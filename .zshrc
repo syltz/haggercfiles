@@ -27,7 +27,7 @@ RPROMPT="%{%F{cyan}%}%T%{%f%k%b%}"
 alias BTS="livestreamer twitch.tv/beyondthesummit high"
 alias bulldog="livestreamer twitch.tv/admiralbulldog high"
 alias draskyl="livestreamer twitch.tv/draskyl high"
-alias drayich="livestreamer twitch.tv/drayich high"
+alias drayich="livestreamer twitch.tv/drayswe high"
 alias waga="livestreamer twitch.tv/wagamamatv high"
 # comfort
 alias install="sudo apt-get install"
