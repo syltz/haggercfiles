@@ -25,3 +25,8 @@ wget -P ~/Downloads http://dl.4players.de/ts/releases/3.0.16/TeamSpeak3-Client-l
 chmod +x ~/Downloads/TeamSpeak3-Client-linux_amd64-3.0.16.run
 ./TeamSpeak3-Client-linux_amd64-3.0.16.run
 
+## Install spotify
+sudo sh -c 'echo "deb http://repository.spotify.com stable non-free" >> /etc/apt/sources.list'
+sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 94558F59
+sudo apt-get update
+sudo apt-get install spotify-client
