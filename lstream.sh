@@ -9,6 +9,8 @@ elif [ "$site" = "hitbox" ]; then
     stream="livestreamer hitbox.tv/"$streamIn" 720p"
 elif [ "$site" = "dailymotion" ]; then 
     stream="livestreamer dailymotion.com/"$streamIn" 720p"
+elif [ "$site" = "mlg" ]; then
+    stream="livestreamer mlg.tv/"$streamIn" 720p"
 fi
 $stream
 
