@@ -35,7 +35,7 @@ alias cd..="cd .."
 alias ls="ls --color=auto"
 alias connPi="ssh markland.itkraft.se -l pi -p 50"
 alias svim="sudo -E vim"
-alias getConfigs="git clone https://github.com/syltz/haggercfiles.git"
+alias getConfigs="git clone https://github.com/syltz/haggercfiles.git && source $HOME/.zshrc"
 alias lstream="~/Configs/haggercfiles/lstream.sh"
 alias ts3="~/Downloads/TeamSpeak3-Client-linux_amd64/ts3client_runscript.sh"
 
