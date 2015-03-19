@@ -1,9 +1,26 @@
-set background=dark
-set smartindent
-set tabstop=4
-set shiftwidth=4
-set expandtab
-set pastetoggle=<F2>
-syntax on
-set encoding=utf-8
-set fileencoding=utf-8
+" General stuff
+set background=dark             " Let vim know that bg is dark
+syntax on                       " Syntaxhighlighting on
+set pastetoggle=<F2>            " Make pasting not fuck shit up
+set encoding=utf-8              " Make sure åäö don't fuck shit up
+set fileencoding=utf-8          " Make sure åäö don't fuck shit up
+set showbreak=+++               " Wrap-broken line prefix
+set showmatch                   " Highlight matching brace
+set ruler                       " Show row and col ruler info
+set lazyredraw                  
+set backspace=indent,eol,start  " Backspace behaviour
+
+"" Searching
+set hlsearch                    " Highlight search results
+set smartcase                   " Enable smart-case search
+set incsearch                   " Search incrementally
+
+"" Formatting
+set autoindent                  " Automatically indent new lines
+set expandtab                   " Use spaces instead of tabs
+set smartindent                 " Enable smart-indent
+set softtabstop=4               " Number of spaces per tab
+set shiftwidth=4                " Number of auto-indent spaces
+set textwidth=100               " Line wrap (number of cols)
+set smarttab                    " Use tabs smartly
+
