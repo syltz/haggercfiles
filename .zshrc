@@ -38,4 +38,4 @@ alias svim="sudo -E vim"
 alias getConfigs="git clone https://github.com/syltz/haggercfiles.git && source $HOME/.zshrc"
 alias lstream="~/Configs/haggercfiles/lstream.sh"
 alias ts3="~/Downloads/TeamSpeak3-Client-linux_amd64/ts3client_runscript.sh"
-
+alias gpa="gpa --disable-x509"
