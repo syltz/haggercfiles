@@ -7,6 +7,7 @@ bindkey -v
 # The following lines were added by compinstall
 zstyle :compinstall filename '/home/hagge/.zshrc'
 
+setopt extended_glob
 autoload -Uz compinit
 compinit
 # End of lines added by compinstall
