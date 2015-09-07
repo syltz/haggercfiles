@@ -27,4 +27,4 @@ set textwidth=100               " Line wrap (number of cols)
 set smarttab                    " Use tabs smartly
 
 "" Test 
-nnoremap <esc> :noh<return><esc>
+"nnoremap <esc> :noh<return><esc>
