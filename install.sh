@@ -5,9 +5,9 @@ sudo pip install livestreamer
 
 ## Create symlinks to the rc-files
 rm $HOME/.vimrc
-ln -s ~/Configs/haggercfiles/.vimrc $HOME/.vimrc
+ln -s ~/Configs/haggercfiles/vimrc $HOME/.vimrc
 rm $HOME/.zshrc
-ln -s ~/Configs/haggercfiles/.zshrc $HOME/.zshrc
+ln -s ~/Configs/haggercfiles/zshrc $HOME/.zshrc
 # Remove the old panel config file
 rm $HOME/.config/lxpanel/Lubuntu/panels/panel
 ln -s ~/Configs/haggercfiles/panel $HOME/.config/lxpanel/Lubuntu/panels/panel
