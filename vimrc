@@ -26,3 +26,5 @@ set shiftwidth=4                " Number of auto-indent spaces
 set textwidth=100               " Line wrap (number of cols)
 set smarttab                    " Use tabs smartly
 
+"" Annat mög
+command Clear let @/=""
