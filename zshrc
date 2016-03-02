@@ -50,6 +50,7 @@ alias draskyl="livestreamer twitch.tv/draskyl high"
 alias drayich="livestreamer twitch.tv/drayswe high"
 alias waga="livestreamer twitch.tv/wagamamatv high"
 # comfort
+alias grep="grep --color=auto"
 alias install="sudo apt-get install"
 alias cd..="cd .."
 alias ls="ls --color=auto"
