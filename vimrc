@@ -1,5 +1,5 @@
 " General stuff
-execute pathogen#infect()
+" execute pathogen#infect()
 filetype off
 syntax on                       " Syntax highlighting on
 filetype on                     " Try to detect filetype

@@ -16,7 +16,7 @@ rm $HOME/.ncmpcpp/config
 ln -s $HOME/Configs/haggercfiles/ncmpcppConfig $HOME/.ncmpcpp/config
 
 ## Set up the screens, will need to change when screens change
-./screenSetup.sh
+#./screenSetup.sh
 
 ## Change shell to ZSH
 chsh -s /bin/zsh
