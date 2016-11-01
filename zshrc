@@ -64,7 +64,7 @@ alias gpa="gpa --disable-x509"
 alias matlab="sh ~/MATLAB/R2016a/bin/matlab"
 alias volatility="python ~/volatility/vol.py"
 alias shutdown="sudo shutdown now"
-alias weather="curl wttr.in"
+alias weather="~/Configs/haggercfiles/weather.sh"
 alias whatismyip="curl ipinfo.io"
 
 ## Annat mög
