@@ -61,7 +61,11 @@ alias getConfigs="git clone https://github.com/syltz/haggercfiles.git && source 
 alias lstream="~/Configs/haggercfiles/lstream.sh"
 alias ts3="~/Downloads/TeamSpeak3-Client-linux_amd64/ts3client_runscript.sh"
 alias gpa="gpa --disable-x509"
-alias matlab="sh /usr/local/MATLAB/R2015b/bin/matlab"
+alias matlab="sh ~/MATLAB/R2016a/bin/matlab"
+alias volatility="python ~/volatility/vol.py"
+alias shutdown="sudo shutdown now"
+alias weather="curl wttr.in"
+alias whatismyip="curl ifconfig.io"
 
 ## Annat mög
 export TIME_STYLE="long-iso"
