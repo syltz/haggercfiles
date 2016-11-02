@@ -65,7 +65,7 @@ alias matlab="sh ~/MATLAB/R2016a/bin/matlab"
 alias volatility="python ~/volatility/vol.py"
 alias shutdown="sudo shutdown now"
 alias weather="~/Configs/haggercfiles/weather.sh"
-alias whatismyip="curl ipinfo.io"
+alias ipaddress="curl ipinfo.io"
 
 ## Annat mög
 export TIME_STYLE="long-iso"
