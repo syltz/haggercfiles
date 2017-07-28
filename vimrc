@@ -29,3 +29,10 @@ set smarttab                    " Use tabs smartly
 
 "" Annat mög
 command Clear let @/=""
+
+"" 
+call plug#begin('~/.vim/plugged')
+Plug 'rstacruz/vim-closer'
+Plug 'rust-lang/rust.vim'
+call plug#end()
+
