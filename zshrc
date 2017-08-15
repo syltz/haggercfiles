@@ -66,7 +66,7 @@ alias volatility="python ~/volatility/vol.py"
 alias shutdown="sudo shutdown now"
 alias weather="~/Configs/haggercfiles/weather.sh"
 alias ipaddress="curl ipinfo.io"
-alias nightly="sh ~/Downloads/Firefox/firefox\ nightly/firefox"
+alias nightly="exec ~/Downloads/Firefox/firefox\ nightly/firefox"
 alias flashNightly="sh ~/Downloads/Firefox/nightlyFlash"
 
 ## Annat mög
